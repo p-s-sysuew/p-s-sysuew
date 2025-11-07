@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://t.me/PavelSusyew" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" alt="Telegram" title="Telegram">
+    Telegram: https://t.me/PavelSusyew
   </a>
   <a href="https://www.github.com/p-s-sysuew" target="_blank" rel="noreferrer">
     <picture>
