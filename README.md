@@ -52,7 +52,7 @@
   </a>
 </p>
 
-## Значки
+## 
 
 <a href="https://github.com/p-s-sysuew" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-s-sysuew&langs_count=10&title_color=ffffff&text_color=f97316&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
