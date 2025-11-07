@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://t.me/PavelSusyew" target="_blank" rel="noreferrer">
-    <img src="https://static.tildacdn.com/tild3632-3837-4735-a331-663561633734/send_8513483.png" width="32" height="32" alt="Telegram" title="Telegram">
+    <img src="https://svobamurpriut.ru/images/telegramm.png" width="32" height="32" alt="Telegram" title="Telegram">
   </a>
   <a href="https://www.github.com/p-s-sysuew" target="_blank" rel="noreferrer">
     <picture>
