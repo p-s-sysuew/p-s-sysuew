@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://t.me/PavelSusyew" target="_blank" rel="noreferrer">
-    Telegram: https://t.me/PavelSusyew
+    <img src="https://static.tildacdn.com/tild3632-3837-4735-a331-663561633734/send_8513483.png" width="32" height="32" alt="Telegram" title="Telegram">
   </a>
   <a href="https://www.github.com/p-s-sysuew" target="_blank" rel="noreferrer">
     <picture>
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-## 
+## Значки
 
 <a href="https://github.com/p-s-sysuew" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-s-sysuew&langs_count=10&title_color=ffffff&text_color=f97316&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
